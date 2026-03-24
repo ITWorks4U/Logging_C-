@@ -1,0 +1,9 @@
+# ignore any output to the repository during development
+*.log
+*.log*
+*.exe
+*.run
+
+/bin/*
+.vs/*
+/obj/*
